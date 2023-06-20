@@ -1,3 +1,3 @@
 # loja_flutter
 
-Uma UI de loja de games de apresentação para o pessoal da DOMVS-IT
+UI de uma loja de jogos feito em Flutter para apresentação de meetup
